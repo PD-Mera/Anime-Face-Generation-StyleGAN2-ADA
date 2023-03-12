@@ -12,7 +12,7 @@ Generate Anime Face with StyleGAN2-ADA
 Install requirements
 
 ``` bash
-pip install -r requirements.txt
+pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
 ## Data
